@@ -1,0 +1,49 @@
+.Table-provider{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+}
+
+.Row-data {
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: groove;
+}
+
+.Field-data{
+    width: 24%;
+}
+
+.Header{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    background-color: rgb(6, 6, 31);
+}
+
+.Row-header{
+    width: 100%;
+    background-color: rgb(84, 96, 205);
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: groove;
+}
+
+.Reference{
+    font-weight:lighter;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

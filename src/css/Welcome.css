@@ -1,0 +1,12 @@
+.Container-welcome {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    height: 30px;
+    padding: 40px;
+    text-align: center;
+    align-items: center;
+    justify-content: center; 
+    font-weight: bolder;
+    color: white;
+  }

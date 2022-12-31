@@ -1,0 +1,26 @@
+.Container-header {
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    height: 5%;
+    width: 100%;
+    margin: 10px 10px 10px;
+    padding: 10px;
+    display: flex;
+    align-items: center; 
+    justify-content: left;
+    text-align: left;
+  }
+
+  .Header-text{
+    position: absolute;
+    top: 0px;
+    left: 300px;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    right: 20%;
+    font-size: larger;
+    font-weight: bolder;
+  }
+
